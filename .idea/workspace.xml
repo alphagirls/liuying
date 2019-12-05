@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cfbb960c-87c5-409a-8bbe-d3b6c8296fa1" name="Default Changelist" comment="" />
+    <list default="true" id="cfbb960c-87c5-409a-8bbe-d3b6c8296fa1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +29,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1UYWnafJw6kXJ5DalrKyA4gGkZc" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -35,6 +41,12 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -60,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575534176665</updated>
-      <workItem from="1575534178581" duration="1378000" />
+      <workItem from="1575534178581" duration="2064000" />
     </task>
     <task id="LOCAL-00001" summary="刘银的个人主页">
       <created>1575534359198</created>
@@ -76,7 +88,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575535336741</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="加上了我的座右铭">
+      <created>1575535701601</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1575535701601</updated>
+    </task>
+    <task id="LOCAL-00004" summary="加上了我的心情">
+      <created>1575535912184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1575535912184</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,24 +122,25 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="刘银的个人主页" />
     <MESSAGE value="加上了我的座右铭" />
-    <option name="LAST_COMMIT_MESSAGE" value="加上了我的座右铭" />
+    <MESSAGE value="加上了我的心情" />
+    <option name="LAST_COMMIT_MESSAGE" value="加上了我的心情" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="304" y="0" key="CommitChangelistDialog2" timestamp="1575535334292">
+    <state x="304" y="0" key="CommitChangelistDialog2" timestamp="1575535909369">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="304" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575535334292" />
-    <state x="299" y="115" key="Vcs.Push.Dialog.v2" timestamp="1575535342621">
+    <state x="304" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575535909369" />
+    <state x="163" y="122" key="Vcs.Push.Dialog.v2" timestamp="1575536163934">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="299" y="115" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1575535342621" />
+    <state x="163" y="122" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1575536163934" />
     <state x="234" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575535673922">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="234" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1575535673922" />
-    <state x="358" y="143" key="git4idea.merge.GitPullDialog" timestamp="1575535527968">
+    <state x="358" y="143" key="git4idea.merge.GitPullDialog" timestamp="1575536176600">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="358" y="143" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1575535527968" />
+    <state x="358" y="143" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1575536176600" />
   </component>
 </project>
