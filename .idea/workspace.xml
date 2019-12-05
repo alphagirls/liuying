@@ -71,7 +71,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1575534176665</updated>
-      <workItem from="1575534178581" duration="2686000" />
+      <workItem from="1575534178581" duration="3322000" />
     </task>
     <task id="LOCAL-00001" summary="刘银的个人主页">
       <created>1575534359198</created>
@@ -115,7 +115,21 @@
       <option name="project" value="LOCAL" />
       <updated>1575536653972</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="加上了我的心情背景颜色">
+      <created>1575536876201</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575536876201</updated>
+    </task>
+    <task id="LOCAL-00008" summary="加上了我的座右铭背景颜色">
+      <created>1575537153192</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1575537153192</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,13 +152,14 @@
     <MESSAGE value="加上了我的心情" />
     <MESSAGE value="加上了我的心情背景" />
     <MESSAGE value="加上了我的心情背景颜色" />
-    <option name="LAST_COMMIT_MESSAGE" value="加上了我的心情背景颜色" />
+    <MESSAGE value="加上了我的座右铭背景颜色" />
+    <option name="LAST_COMMIT_MESSAGE" value="加上了我的座右铭背景颜色" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="242" y="0" key="CommitChangelistDialog2" timestamp="1575536651543">
+    <state x="242" y="0" key="CommitChangelistDialog2" timestamp="1575537652084">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="242" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575536651543" />
+    <state x="242" y="0" key="CommitChangelistDialog2/0.0.1280.680@0.0.1280.680" timestamp="1575537652084" />
     <state x="-1" y="26" key="MergeDialog" timestamp="1575536840585">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -153,17 +168,17 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="327" y="46" key="MultipleFileMergeDialog/0.0.1280.680@0.0.1280.680" timestamp="1575536840618" />
-    <state x="163" y="122" key="Vcs.Push.Dialog.v2" timestamp="1575536344473">
+    <state x="163" y="122" key="Vcs.Push.Dialog.v2" timestamp="1575537175486">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="163" y="122" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1575536344473" />
+    <state x="163" y="122" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1575537175486" />
     <state x="234" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575535673922">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="234" y="260" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.680@0.0.1280.680" timestamp="1575535673922" />
-    <state x="358" y="143" key="git4idea.merge.GitPullDialog" timestamp="1575536672501">
+    <state x="358" y="143" key="git4idea.merge.GitPullDialog" timestamp="1575537527746">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="358" y="143" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1575536672501" />
+    <state x="358" y="143" key="git4idea.merge.GitPullDialog/0.0.1280.680@0.0.1280.680" timestamp="1575537527746" />
   </component>
 </project>
